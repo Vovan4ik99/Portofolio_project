@@ -1,0 +1,32 @@
+@mixin before_circle {
+    &:before {
+        content: "";
+        position: absolute;
+        top: -25%;
+        left: 0;
+        width: 36px;
+        height: 36px;
+        border-radius: 100%;
+        background: $main-block-color;
+        z-index: -1;
+    }
+}
+
+@mixin social_link_animation($rotation-degree: 90deg) {
+    transition: transform 0.3s ease;
+      &:hover {
+        transform: scale(1.1) rotate($rotation-degree);
+      }
+      
+      &--facebook:hover svg path {
+        fill: #1877F2; 
+      }
+  
+      &--instagram:hover svg path {
+        fill: url(#instagram-gradient);
+      }
+  
+      &--github:hover svg path {
+        fill: #FFFFFF; 
+      }
+}
