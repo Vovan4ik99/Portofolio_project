@@ -5,7 +5,10 @@
     padding-top: 260px;
     &__title {
         margin-top: 10px;
-        width: 600px;
+        .nowrap {
+            display: block;
+            white-space: nowrap;
+        }
     }
     &__subtitle {
         position: relative;

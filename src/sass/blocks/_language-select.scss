@@ -1,0 +1,54 @@
+.language-select {
+    position: absolute;
+    top: 18px;
+    right: 240px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    .selected-lang {
+        position: relative;
+        margin-bottom: 25px;
+        &:hover {
+            &:after {
+                content: '';
+                position: absolute;
+                top: 25px;
+                left: 50%;
+                transform: translateX(-50%) rotate(45deg);
+                border: solid black;
+                border-width: 0 2px 2px 0;
+                display: inline-block;
+                padding: 3px;
+            }
+        }
+    }
+
+    .language-select__options {
+        display: none;
+        position: absolute;
+    
+        .language-select__option {
+            position: relative;
+            transition: all 0.3s ease;
+
+            &:before {
+                @include flag-style;
+            }
+    
+            &:hover {
+                color: #FFF; 
+            }
+
+            &.lang-en:before {
+                background-image: url('../icons/language/english.svg');
+            }
+        
+            &.lang-pl:before {
+                background-image: url('../icons/language/polish.svg'); 
+            }
+        
+            &.lang-ua:before {
+                background-image: url('../icons/language/ukrainian.svg');
+            }
+        }
+    }
+}
