@@ -62,3 +62,24 @@ document.querySelector('.selected-lang').addEventListener('click', function() {
     this.style.display = 'none';
 });
 
+//github icon backgorund animation
+window.addEventListener('scroll', function() {
+    const windowHeight = window.innerHeight || document.documentElement.clientHeight;
+    const scrollPosition = window.scrollY || document.documentElement.scrollTop;
+    const element = document.querySelector('.sidepanel__link--github');
+
+    if (scrollPosition >= windowHeight * 0.8) {
+        element.classList.add('link_activated');
+    } else {
+        element.classList.remove('link_activated');
+    }
+});
+
+//skills raiting counter
+const values = document.querySelectorAll('.skills__proficiency-value');
+const lines = document.querySelectorAll('.skills__proficiency-line span');
+
+values.forEach((value, idx) => {
+    lines[idx].style.width = value.textContent;
+})
+
