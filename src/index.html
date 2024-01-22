@@ -573,21 +573,30 @@
                     </div>
                     <div class="title title_fz14 contacts__text" data-lang-en="Or leave your contact details, and I will reach out to you myself:" data-lang-pl="Lub zostaw swoje dane kontaktowe, sam się z Tobą skontaktuję:"
                      data-lang-ua="Або залиште свої контактні дані, і я сам з вами зв'яжусь:">Or leave your contact details, and I will reach out to you myself:</div>
-                     <form action="#" class="contacts__form">
+                     <form action="mailer/smart.php" class="contacts__form">
                         <div class="contacts__input">
                             <input name="name" id="name" type="text">
                             <label for="name" data-lang-en="Your name" data-lang-pl="Twoje imię" data-lang-ua="Ваше ім'я">Your name</label>
+                            <span class="error-message" id="name-error"></span>
                         </div>
                         <div class="contacts__input">
                             <input name="email" id="email" type="email">
                             <label for="email" data-lang-en="Your email" data-lang-pl="Twój email" data-lang-ua="Ваш email">Your email</label>
+                            <span class="error-message" id="email-error"></span>
                         </div>
                         <div class="contacts__textarea">
                             <textarea name="text" id="text"></textarea>
                             <label for="text" data-lang-en="Your message" data-lang-pl="Twoja wiadomość" data-lang-ua="Ваше повідомлення">Your message</label>
+                            <span class="error-message" id="text-error"></span>
                         </div>
-                        <div>
+                        <div class="contacts__triggers">
                             <button class="btn contacts__btn" data-lang-en="Send message" data-lang-pl="Wyślij wiadomość" data-lang-ua="Надіслати повідомлення">Send message</button>
+                            <div class="contacts__policy">
+                                <input type="checkbox" name="policy" id="policy">
+                                <span data-lang-en="I agree to the " data-lang-pl="Wyrażam zgodę na " data-lang-ua="Я згоден на ">I agree to the </span>
+                                <a id="policy-link" href="privacy/Privacy-Policy-Termify.pdf" target="_blank" data-lang-en="processing of personal data" data-lang-pl="przetwarzanie danych osobowych" data-lang-ua="обробку персональних даних">processing of personal data</a>
+                            </div>
+                            <span class="error-message" id="policy-error"></span>
                         </div>
                      </form>
                 </div>
