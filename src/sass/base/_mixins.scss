@@ -36,6 +36,12 @@
             } 
         }
     }
+
+    &--telegram:hover {
+        svg path {
+            fill: #0088cc;
+        }
+    }
 }
 
 @mixin flag-style {
