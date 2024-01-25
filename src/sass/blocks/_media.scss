@@ -20,6 +20,11 @@
             }
         }
     }
+    .skills {
+        &__wrapper {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
 }
 
 @media(max-width: 992px) {
@@ -27,6 +32,9 @@
         max-width: 720px;
     }
     .promo {
+        &:before {
+            opacity: 0.7;
+        }
         &__title {
             span:nth-child(2) {
                 white-space: wrap;
@@ -54,6 +62,21 @@
             &-item {
                 column-gap: 20px;
             }
+        }
+    }
+    .resume__wrapper {
+        grid-template-columns: 1fr;
+        row-gap: 70px;
+    }
+    .skills {
+        &__wrapper {
+            grid-template-columns: repeat(2, 270px);
+            justify-content: center;
+            column-gap: 30px;
+            row-gap: 20px;
+        }
+        &__proficiency {
+            grid-template-columns: repeat(2, 1fr);
         }
     }
 }
@@ -93,6 +116,20 @@
             }
         }
     }
+    .resume {
+        padding-top: 60px;
+    }
+    .skills {
+        padding-top: 60px;
+        &__wrapper {
+            grid-template-columns: repeat(2, 260px);
+            row-gap: 20px;
+            column-gap: 20px;
+        }
+        &__item {
+            padding: 20px;
+        }
+    }
 }
 
 @media(max-width: 576px) {
@@ -118,7 +155,6 @@
         }
     }
     .promo {
-        background: url('../img/main_bg.jpg') no-repeat 60%/cover;
         &__btns {
             margin-top: 30px;
         }
@@ -130,6 +166,32 @@
         }
         &__skills {
             grid-template-columns: 1fr;
+        }
+    }
+    .resume {
+        &__wrapper {
+            padding: 40px 0 0 0;
+            row-gap: 40px;
+        }
+    }
+    .skills {
+        .divider {
+            margin-top: 15px;
+        }
+        &__wrapper {
+            margin-top: 20px;
+            grid-template-columns: 270px;
+            row-gap: 20px;
+            justify-content: center;
+        }
+        &__item {
+            padding: 30px;
+        }
+        &__proficiency {
+            margin-top: 40px;
+            grid-template-columns: 300px;
+            justify-content: center;
+            row-gap: 40px;
         }
     }
 }

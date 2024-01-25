@@ -1,0 +1,185 @@
+
+O	php:S1135ç"4Complete the task associated to this "TODO" comment.(–ºÍÒúÿÿÿÿ
+J	php:S1135ë"4Complete the task associated to this "TODO" comment.(™ş¥€
+O	php:S1135„	"4Complete the task associated to this "TODO" comment.(‹Â†ıÿÿÿÿ
+O	php:S1135ß"4Complete the task associated to this "TODO" comment.(´¥•¯úÿÿÿÿ
+O	php:S1135"4Complete the task associated to this "TODO" comment.(Å£œàûÿÿÿÿ
+lphp:S100Õ"RRename function "_mime_types" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹¬¡ÿûÿÿÿÿ
+gphp:S100Ş"RRename function "mb_pathinfo" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÕÜÎ×
+hphp:S100Ë"NRename function "DKIM_QP" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Éƒà±üÿÿÿÿ
+ephp:S100à"PRename function "DKIM_Sign" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®£×¯
+hphp:S100ü"SRename function "DKIM_HeaderC" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•–·„
+fphp:S100"QRename function "DKIM_BodyC" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ºö°
+iphp:S100§"ORename function "DKIM_Add" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿç¸±ÿÿÿÿÿ
+kphp:S101É"VRename class "phpmailerException" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äçÚ÷
+W	php:S1142Û"<This method has 5 returns, which is more than the 3 allowed.(úŒòÎøÿÿÿÿ
+W	php:S1142‡"<This method has 5 returns, which is more than the 3 allowed.(ëÇ¼Òıÿÿÿÿ
+R	php:S1142¢"<This method has 7 returns, which is more than the 3 allowed.(»±ßè
+R	php:S1142¢
+"<This method has 6 returns, which is more than the 3 allowed.(Ã£Ï
+W	php:S1142ù"<This method has 4 returns, which is more than the 3 allowed.(Êúšòüÿÿÿÿ
+R	php:S1142Ş"<This method has 5 returns, which is more than the 3 allowed.(ÕÜÎ×
+ephp:S116""QRename this field "$Version" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úéÑÌ
+fphp:S116*"RRename this field "$Priority" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¬¹ÁÆ
+jphp:S1160"QRename this field "$CharSet" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•¥“ÿÿÿÿÿ
+iphp:S1166"URename this field "$ContentType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¤Ç—–
+fphp:S116="RRename this field "$Encoding" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·éö
+lphp:S116C"SRename this field "$ErrorInfo" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿ¿º‘ùÿÿÿÿ
+bphp:S116I"NRename this field "$From" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üê¼ò
+fphp:S116O"RRename this field "$FromName" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Û¡Ù‘
+iphp:S116V"PRename this field "$Sender" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ğ˜Çùúÿÿÿÿ
+mphp:S116`"TRename this field "$ReturnPath" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(û®º£ûÿÿÿÿ
+jphp:S116f"QRename this field "$Subject" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†„ÙËûÿÿÿÿ
+gphp:S116m"NRename this field "$Body" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(„ Ä¸üÿÿÿÿ
+ephp:S116v"QRename this field "$AltBody" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(õ¬Åˆ
+hphp:S116€"NRename this field "$Ical" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(…Îà—üÿÿÿÿ
+gphp:S116‡"RRename this field "$MIMEBody" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Âì¿õ
+nphp:S116"TRename this field "$MIMEHeader" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(„—ééùÿÿÿÿ
+gphp:S116œ"RRename this field "$WordWrap" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÌÈ½å
+jphp:S116£"PRename this field "$Mailer" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úéÒÆøÿÿÿÿ
+gphp:S116©"RRename this field "$Sendmail" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(å–æ
+pphp:S116°"\Rename this field "$UseSendmailOptions" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ËóªI
+hphp:S116¸"SRename this field "$PluginDir" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ßèŒŒ
+ophp:S116¾"ZRename this field "$ConfirmReadingTo" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ë°ò
+gphp:S116Ç"RRename this field "$Hostname" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“Ÿ…‰
+gphp:S116Î"SRename this field "$MessageID" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ¬ÃR
+jphp:S116Õ"URename this field "$MessageDate" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Æûƒ£
+hphp:S116â"NRename this field "$Host" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ñ×¶²ıÿÿÿÿ
+hphp:S116é"NRename this field "$Port" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(øçàåùÿÿÿÿ
+hphp:S116ò"NRename this field "$Helo" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¾Ã”ªùÿÿÿÿ
+nphp:S116ù"TRename this field "$SMTPSecure" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(³ÛàÓşÿÿÿÿ
+jphp:S116"URename this field "$SMTPAutoTLS" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úÉ³›
+gphp:S116Š"RRename this field "$SMTPAuth" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ã€ñ”
+jphp:S116"URename this field "$SMTPOptions" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®áÊ¢
+gphp:S116–"RRename this field "$Username" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÛıÇš
+lphp:S116œ"RRename this field "$Password" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ñ¥ú®ıÿÿÿÿ
+gphp:S116£"RRename this field "$AuthType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ö‰õÎ
+iphp:S116ª"ORename this field "$Realm" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ç¼ïşÿÿÿÿ
+ophp:S116±"URename this field "$Workstation" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ıÃî şÿÿÿÿ
+kphp:S116¸"QRename this field "$Timeout" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¿¾Êìøÿÿÿÿ
+mphp:S116Æ"SRename this field "$SMTPDebug" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Æ¶³Ñıÿÿÿÿ
+ophp:S116Ö"URename this field "$Debugoutput" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ï”—™şÿÿÿÿ
+qphp:S116Ş"WRename this field "$SMTPKeepAlive" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®Ø«Õüÿÿÿÿ
+gphp:S116æ"RRename this field "$SingleTo" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ï˜Ô
+lphp:S116í"WRename this field "$SingleToArray" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Òï„
+fphp:S116ö"QRename this field "$do_verp" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆÛ®à
+nphp:S116ü"TRename this field "$AllowEmpty" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÆÔÿ²úÿÿÿÿ
+fphp:S116„"LRename this field "$LE" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰Êèûÿÿÿÿ
+qphp:S116Š"WRename this field "$DKIM_selector" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(õ«şÿÿÿÿ
+qphp:S116‘"WRename this field "$DKIM_identity" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•­Ñƒúÿÿÿÿ
+nphp:S116˜"YRename this field "$DKIM_passphrase" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜ÊÂ
+jphp:S116Ÿ"URename this field "$DKIM_domain" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ù‰Éî
+pphp:S116¥"VRename this field "$DKIM_private" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–É£‰üÿÿÿÿ
+nphp:S116¹"YRename this field "$action_function" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Îğ¤
+kphp:S116À"QRename this field "$XMailer" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ºÔà×ÿÿÿÿÿ
+fphp:S116ì"QRename this field "$ReplyTo" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¸™Î¢
+rphp:S116õ"XRename this field "$all_recipients" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ïÜáŞøÿÿÿÿ
+sphp:S116"YRename this field "$RecipientsQueue" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡•¯Èÿÿÿÿÿ
+jphp:S116‹"VRename this field "$ReplyToQueue" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(šÕ·{
+kphp:S116™"VRename this field "$CustomHeader" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(™—”ä
+pphp:S116§"VRename this field "$message_type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(å´«Òøÿÿÿÿ
+iphp:S116¼"URename this field "$error_count" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğæĞ9
+rphp:S116Ã"XRename this field "$sign_cert_file" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆışÁùÿÿÿÿ
+qphp:S116Ê"WRename this field "$sign_key_file" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¥ÃÑÌÿÿÿÿÿ
+xphp:S116Ñ"^Rename this field "$sign_extracerts_file" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†Ê¦µüÿÿÿÿ
+lphp:S116Ù"WRename this field "$sign_key_pass" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ùößş
+}php:S117•"cRename this local variable "$PHPMAILER_LANG" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(Š©ì©ùÿÿÿÿ
+~php:S117ú"dRename this local variable "$RecipientsQueue" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(¸ğŞüÿÿÿÿ
+€php:S117©"fRename this local variable "$DKIMsignatureType" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(æ”ßÿÿÿÿÿ
+~php:S117ª"iRename this local variable "$DKIMcanonicalization" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(Î“òÄ
+xphp:S117«"^Rename this local variable "$DKIMquery" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(‡ÍÇæùÿÿÿÿ
+wphp:S117¬"]Rename this local variable "$DKIMtime" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(ß‡„şÿÿÿÿ
+vphp:S117Î"\Rename this local variable "$DKIMlen" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(´šÌİüÿÿÿÿ
+pphp:S117Ï"\Rename this local variable "$DKIMb64" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(ü€ıJ
+j	php:S3776´"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(éø€£
+j	php:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(»±ßè
+o	php:S3776Ã	"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(’’Šÿøÿÿÿÿ
+j	php:S3776É
+"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(â–«‡
+i	php:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(—ïÄ
+j	php:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(å¦½¶
+j	php:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(Êî
+j	php:S3776 "TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ÿ©÷
+o	php:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(æé—øÿÿÿÿ
+j	php:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.(€†ÿĞ
+j	php:S3776î"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(«»
+P	php:S1599¾"5Remove the use of this variable variable "$$current".(Ñ¨òøÿÿÿÿ
+P	php:S1599¿"5Remove the use of this variable variable "$$current".(¹ÅıÎùÿÿÿÿ
+e	php:S1192é"JDefine a constant instead of duplicating this literal "text/html" 8 times.(Ñ²€‘úÿÿÿÿ
+`	php:S1192Ï"JDefine a constant instead of duplicating this literal "/[\r\n]+/" 3 times.(§À­ã
+f	php:S1192²"KDefine a constant instead of duplicating this literal "video/mpeg" 3 times.(ìğ ©ùÿÿÿÿ
+c	php:S1192”"MDefine a constant instead of duplicating this literal "audio/x-aiff" 3 times.(¦ºà—
+r	php:S1192ş"WDefine a constant instead of duplicating this literal "application/x-director" 3 times.(øüĞıÿÿÿÿ
+`	php:S11926"KDefine a constant instead of duplicating this literal "text/plain" 9 times.(¤Ç—–
+s	php:S1192ƒ"XDefine a constant instead of duplicating this literal "application/x-httpd-php" 4 times.(™„å…üÿÿÿÿ
+a	php:S1192Ú"FDefine a constant instead of duplicating this literal ";\r\n" 3 times.(Ä†Û–úÿÿÿÿ
+m	php:S1192ô"WDefine a constant instead of duplicating this literal "application/postscript" 3 times.(ÜÆË–
+i	php:S1192†"SDefine a constant instead of duplicating this literal "multipart/related;" 4 times.(˜‰¼
+c	php:S1192ê"HDefine a constant instead of duplicating this literal "file://" 4 times.(ØÅ©üÿÿÿÿÿ
+u	php:S1192é"ZDefine a constant instead of duplicating this literal "application/octet-stream" 10 times.(÷É×úıÿÿÿÿ
+f	php:S1192‘"KDefine a constant instead of duplicating this literal "audio/mpeg" 3 times.(ÇàıÙÿÿÿÿÿ
+d	php:S1192‡"NDefine a constant instead of duplicating this literal "\tboundary=\"" 8 times.(ô€¼Ù
+a	php:S1192"KDefine a constant instead of duplicating this literal "image/jpeg" 3 times.(î¸«ß
+m	php:S1192’"WDefine a constant instead of duplicating this literal "multipart/alternative;" 3 times.(¾ºš²
+~	php:S1488†"cImmediately return this expression instead of assigning it to the temporary variable "$signHeader".(úûåæÿÿÿÿÿ
+|	php:S1488Ñ"aImmediately return this expression instead of assigning it to the temporary variable "$errorMsg".(¯âŠ‚ÿÿÿÿÿ
+I	php:S1172œ"3Remove the unused function parameter "$space_conv".(˜—ö‹
+{	php:S1448"fClass "PHPMailer" has 101 methods, which is greater than 20 authorized. Split it into smaller classes.(‰À©Ï
+J	php:S1066¼"/Merge this if statement with the enclosing one.(ƒ¾ìÖøÿÿÿÿ
+E	php:S1066ü"/Merge this if statement with the enclosing one.(•Ô®ó
+J	php:S1066¼"/Merge this if statement with the enclosing one.(°ĞÒÊÿÿÿÿÿ
+J	php:S1066Ş"/Merge this if statement with the enclosing one.(íÿ¸­úÿÿÿÿ
+E	php:S1066‚"/Merge this if statement with the enclosing one.(Ú·¼À
+V	php:S6353£";Use concise character class syntax '\d' instead of '[0-9]'.(ú–İÔûÿÿÿÿ
+A	php:S2003¸"&Replace "include" with "include_once".(áÌÔ©şÿÿÿÿ
+J	php:S6600ô"/Remove the parentheses from this "return" call.(è’¸şÿÿÿÿÿ
+E	php:S6600‚"/Remove the parentheses from this "return" call.(ğÖş
+E	php:S6600„"/Remove the parentheses from this "return" call.(×¨íŒ
+E	php:S6600•"/Remove the parentheses from this "return" call.(¥ŠÚ
+J	php:S6600¼"/Remove the parentheses from this "return" call.(×¶ªóùÿÿÿÿ
+E	php:S6600±"/Remove the parentheses from this "return" call.(Çø¸É
+R	php:S1155ô"7Use empty() to check whether the array is empty or not.(ëõ‚šøÿÿÿÿ
+g	php:S4833¸"LReplace "include" with namespace import mechanism through the "use" keyword.(áÌÔ©şÿÿÿÿ
+-	php:S2010®"Replace "or" with "||".(¯ó³£
+.	php:S2010Ã"Replace "and" with "&&".(ë£Éá
+3	php:S2010ë"Replace "and" with "&&".(·¿ê´ÿÿÿÿÿ
+3	php:S2010·"Replace "and" with "&&".(ßš‰áüÿÿÿÿ
+-	php:S2010î"Replace "or" with "||".(Í«şö
+-	php:S2010ï"Replace "and" with "&&".(ªĞªD
+,	php:S2010ï"Replace "or" with "||".(ªĞªD
+2	php:S2010«"Replace "or" with "||".(­òüÿùÿÿÿÿ
+2	php:S2010®"Replace "or" with "||".(õ—Îıÿÿÿÿ
+.	php:S2010¸"Replace "and" with "&&".(ƒìµ
+3	php:S2010ö"Replace "and" with "&&".(‹§²¨øÿÿÿÿ
+3	php:S2010õ"Replace "and" with "&&".(™şÏ×şÿÿÿÿ
+.	php:S2010…	"Replace "and" with "&&".(²ú«Ÿ
+-	php:S2010—	"Replace "and" with "&&".(²Û¬0
+3	php:S2010–	"Replace "and" with "&&".(¼áª€ûÿÿÿÿ
+3	php:S2010›	"Replace "and" with "&&".(ç¸¶ûÿÿÿÿ
+.	php:S2010ë	"Replace "and" with "&&".(îÿ©é
+3	php:S2010›"Replace "and" with "&&".(­¨Ğ®ùÿÿÿÿ
+3	php:S2010 "Replace "and" with "&&".(“Š‰Šûÿÿÿÿ
+3	php:S2010ê"Replace "and" with "&&".(«¿şÿÿÿÿ
+-	php:S2010¯"Replace "or" with "||".(öªà
+.	php:S2010¯"Replace "and" with "&&".(öªà
+2	php:S2010º"Replace "or" with "||".(ÿòÛ±ûÿÿÿÿ
+3	php:S2010Ã"Replace "and" with "&&".(ìÊÚûÿÿÿÿ
+3	php:S2010Ó"Replace "and" with "&&".(€ˆ¢êûÿÿÿÿ
+3	php:S2010Ó"Replace "and" with "&&".(€ˆ¢êûÿÿÿÿ
+3	php:S2010Ó"Replace "and" with "&&".(€ˆ¢êûÿÿÿÿ
+3	php:S2010õ"Replace "and" with "&&".(Î¥‹“şÿÿÿÿ
+-	php:S2010”"Replace "and" with "&&".(Áúà|
+.	php:S2010Å"Replace "and" with "&&".(”ú””
+3	php:S2010Å"Replace "and" with "&&".(ù„¼ºøÿÿÿÿ
+2	php:S2010Ã"Replace "or" with "||".(­˜œşÿÿÿÿ
+2	php:S2010Ã"Replace "or" with "||".(­˜œşÿÿÿÿ
+.	php:S2010Ó"Replace "and" with "&&".(Œô¤â
+3	php:S2010Õ"Replace "and" with "&&".(—ÌÔ§ûÿÿÿÿ
+3	php:S2010Ü"Replace "and" with "&&".(©„Âµüÿÿÿÿ
+.	php:S2010ã"Replace "and" with "&&".(™ëÂÓ
+3	php:S2010ê"Replace "and" with "&&".(Ò§áâÿÿÿÿÿ
+3	php:S2010º"Replace "and" with "&&".(×İ¡Ïıÿÿÿÿ
+.	php:S2010Û"Replace "and" with "&&".(º®Äø
+3	php:S2010†"Replace "and" with "&&".(ÀûØ«øÿÿÿÿ
+3	php:S2010†"Replace "and" with "&&".(ÀûØ«øÿÿÿÿ
+”php:S138Ã"zThis function "createBody" has 184 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(æé—øÿÿÿÿ

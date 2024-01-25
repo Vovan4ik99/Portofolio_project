@@ -3,7 +3,7 @@
     &__wrapper {
         margin-top: 60px;
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(4, 270px);
         grid-template-rows: repeat(2, minmax(270px, auto));
         grid-auto-rows: minmax(270px, auto);
         row-gap: 13px;

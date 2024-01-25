@@ -1,8 +1,22 @@
 .promo {
     min-height: 100vh;
     position: relative;
-    background: url(../img/main_bg.jpg) no-repeat 50%/cover;
     padding-top: 260px;
+    z-index: 1;
+    &:before {
+        content: '';
+        position: absolute;
+        background: url(../img/main_bg.jpg) no-repeat 95%/cover;
+        z-index: -1;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+    * {
+        position: relative;
+        z-index: 2;
+    }
     &__title {
         margin-top: 10px;
         .nowrap {
