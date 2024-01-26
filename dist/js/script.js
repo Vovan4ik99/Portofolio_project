@@ -59,6 +59,11 @@ function translate(language) {
         translate(selectedLanguage);
         adjustSidePanelPosition(selectedLanguage);
         updatePrivacyPolicyLink(selectedLanguage);
+        if(selectedLanguageText === 'UA') {
+            document.documentElement.className = 'ua-lang';
+        } else {
+            document.documentElement.removeClassName('ua-lang');
+        }
 
         const selectedLangElement = document.querySelector('.language-select .selected-lang');;
         selectedLangElement.textContent = selectedLanguageText;
@@ -117,11 +122,11 @@ document.querySelector('.contacts__form').addEventListener('submit', function(ev
 
     let emailErrorMessage = '';
     if (language === 'EN') {
-        emailErrorMessage = 'Please enter a valid email address.';
+        emailErrorMessage = 'Please enter a valid email.';
     } else if (language === 'PL') {
         emailErrorMessage = 'Wpisz poprawny adres email.';
     } else if (language === 'UA') {
-        emailErrorMessage = 'Введіть дійсну адресу електронної пошти.';
+        emailErrorMessage = 'Введіть дійсний email.';
     }
 
     let textErrorMessage = '';

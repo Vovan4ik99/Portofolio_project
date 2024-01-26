@@ -20,8 +20,8 @@
         }
         display: grid;
         grid-template-columns: 1fr minmax(40px, auto);
-        grid-template-rows: 20px 20px;
-        grid-auto-rows: 20px;
+        grid-template-rows: repeat(2, minmax(20px, auto));
+        grid-auto-rows: minmax(20px, auto);
         row-gap: 10px;
         justify-content: space-between;
         &-title {
